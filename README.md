@@ -30,8 +30,11 @@ Address the product team’s request for demographic insights, using each of the
 Place your data visualizations and design an appropriate layout that emphasizes the most important findings first, with the CEO's questions answered on the first page, insights about the differences between dogs and cats on the second, and insights about the families who own the pets on the third.
 In your data visualizations, incorporate the branding elements requested by the Chief Marketing Officer.
 Please include at least five slicers on each page with at least one example of a drop-down slicer, at least one example of a slider slicer, at least one example of a hierarchy slicer, at least one example of a slicer with “Select All” enabled, and one example of a slicer with the search box enabled.
-Create at least two bookmark features. One must allow users to dynamically swap one visual out with a different one and another must reset all applied filters on the page.
+Create at least two bookmark features. One must allow users to dynamically swap one visual out with a different one and another must reset all applied filters on the page
+
 Create buttons that help your users navigate your report. Buttons must respond when users hover over them by changing color or size (or both!).
+![image](https://github.com/maselim/Building-a-PowerBI-Report-for-Waggle/assets/52356062/b000f418-8517-4f74-9357-06ddc9f361f9)
+
 
 
 

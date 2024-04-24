@@ -34,9 +34,13 @@ Create at least two bookmark features. One must allow users to dynamically swap 
 
 Create buttons that help your users navigate your report. Buttons must respond when users hover over them by changing color or size (or both!).
 ![image](https://github.com/maselim/Building-a-PowerBI-Report-for-Waggle/assets/52356062/b000f418-8517-4f74-9357-06ddc9f361f9)
+![image](https://github.com/maselim/Building-a-PowerBI-Report-for-Waggle/assets/52356062/d4106f15-08f0-4bd3-a5d8-f2114617db93)
+![image](https://github.com/maselim/Building-a-PowerBI-Report-for-Waggle/assets/52356062/8c42a74d-78be-4b7b-8a14-30b0d5a80fc6)
 
 
 
 
 
-![image](https://github.com/maselim/Building-a-PowerBI-Report-for-Waggle/assets/52356062/c6971e8e-45ea-4149-ae5a-2894f4ab1511)
+
+
+
